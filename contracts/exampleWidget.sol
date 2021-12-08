@@ -1,5 +1,5 @@
 // SPDX-License-Identifier
-pragma solidity ^0.6.0;
+pragma solidity >0.6.0;
 
 import "./HitchensUnorderedKeySet.sol";
 
